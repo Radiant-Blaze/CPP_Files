@@ -9,7 +9,7 @@ in this line "Hello" is a string literal
 
 to use variables with string literal we do this 
 
-std::string name = "Larry";
+std::string name = "Emiya Shirou";
 std::cout<< "Hello " << name << std::endl;
 
 we will print Hello Larry here
